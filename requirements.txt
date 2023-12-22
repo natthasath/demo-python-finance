@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+requests
+lxml
+matplotlib
+python-decouple
